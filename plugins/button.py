@@ -30,7 +30,7 @@ def start_button(client):
         buttons = [
             
             [
-                InlineKeyboardButton(text="ᴛᴇɴᴛᴀɴɢ ꜱᴀʏᴀ", callback_data="about"),
+                InlineKeyboardButton(text="ᴛᴇɴᴛᴀɴɢ ꜱᴀʏᴀ", callback_data="aboutu"),
                 InlineKeyboardButton(text="ᴛᴜᴛᴜᴘ", callback_data="close"),
             ],
         ]
