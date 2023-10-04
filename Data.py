@@ -5,7 +5,7 @@
 from pyrogram.types import InlineKeyboardButton
 
 class Data:
-    HELP = """
+    HELPW = """
 <b> ❏ Perintah untuk Pengguna BOT
  ├ /start - Mulai Bot
  ├ /about - Tentang Bot ini
@@ -44,7 +44,7 @@ class Data:
         ],
     ]
 
-    ABOUT = """
+    ABOUTU = """
 <b>Tentang Bot ini:
 
 @{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
